@@ -9,7 +9,7 @@ My interests lie in developing intelligent hardware solutions that bridge electr
 
 **Key Skills:**
 - Programming: C, C++
-- Hardware Platforms: Arduino, ESP32/ESP8266
+- Hardware Platforms: Arduino, ESP32/ESP8266,STM32
 - Communication Protocols: UART
 - Tools: MATLAB, ETAP, Firebase
 - Focus Areas: IoT Systems, Embedded Security, Power Systems Automation
