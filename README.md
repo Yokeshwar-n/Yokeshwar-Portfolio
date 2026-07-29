@@ -90,6 +90,4 @@ Designed and built a working ring light system for smart traffic signaling appli
 
 ## 📫 Contact
 📍 Yokeshwar N
-📧 Email: (add your email here)
-💻 GitHub: (add your GitHub profile link once uploaded)
-🌐 LinkedIn: (optional)
+📧 Email: yokeshwarnarayanan@gmail.com
